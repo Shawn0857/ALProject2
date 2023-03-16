@@ -2,6 +2,8 @@ table 50100 "CRONUS Course"
 {
     DataClassification = CustomerContent;
     Caption = 'Course';
+    LookupPageId = "CRONUS Course List";
+    DrillDownPageId ="CRONUS Course List";
 
     fields
     {
